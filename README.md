@@ -28,11 +28,11 @@
 
 ## Используемые инструменты
 
-`sklearn` `pandas` `numpy` `matplotlib`, 'imblearn'
+`sklearn` `pandas` `numpy` `matplotlib`, `imblearn`
 
 ### Модели
 
-`DecisionTreeClassifier` `AdaBoostClassifier` `RandomForestClassifier`
+`DecisionTreeClassifier` `AdaBoostClassifier` `RandomForestClassifier` `LogisticRegression`
 
 ### Дополнительно
 
